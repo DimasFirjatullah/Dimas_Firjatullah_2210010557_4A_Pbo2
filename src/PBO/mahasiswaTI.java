@@ -10,7 +10,7 @@ import java.util.Scanner;
 public class mahasiswaTI {
     public static void main(String[] args) {
         //objek
-        //Mahasiswa mhs = new Mahasiswa("Khatibul Luthfi","2210010657");
+        //Mahasiswa mhs = new Mahasiswa("Dimas Firjatullah","221001557");
         
         //System.out.println(mhs.displayInfo());
         //System.out.println(mhs.displayInfo("4ANONREG"));
